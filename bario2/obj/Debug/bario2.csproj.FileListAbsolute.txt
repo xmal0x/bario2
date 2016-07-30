@@ -1,0 +1,11 @@
+D:\projects\bario2\bario2\bario2\bin\Debug\bario2.exe.config
+D:\projects\bario2\bario2\bario2\bin\Debug\bario2.exe
+D:\projects\bario2\bario2\bario2\bin\Debug\bario2.pdb
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.csprojResolveAssemblyReference.cache
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.Form1.resources
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.Properties.Resources.resources
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.csproj.GenerateResource.Cache
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.exe
+D:\projects\bario2\bario2\bario2\obj\Debug\bario2.pdb
+D:\projects\bario2\bario2\bario2\bin\Debug\Newtonsoft.Json.dll
+D:\projects\bario2\bario2\bario2\bin\Debug\Newtonsoft.Json.xml
